@@ -25,4 +25,6 @@
 
 <img src="https://streak-stats.demolab.com?user=Cashisfsg&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=2DD4BF&currStreakLabel=A78BFA" />
 
+<img src="./profile/github-stats.svg" width="90%" alt="GitHub Statistics"/>
+
 </div>
