@@ -1,4 +1,3 @@
-
 name: Update GitHub Statistics
 
 on:
@@ -14,6 +13,9 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+      - name: Checkout repository
+        uses: actions/checkout@v6
+
       - name: Generate statistics
         uses: cicirello/user-statistician@v1
         with:
@@ -22,6 +24,5 @@ jobs:
           custom-title: "Cashisfsg | GitHub Statistics"
           colors: dark
           commit-and-push: true
-          commit-message: "Update GitHub statistics"
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
