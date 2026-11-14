@@ -1,0 +1,27 @@
+
+name: Update GitHub Statistics
+
+on:
+  schedule:
+    - cron: "0 3 * * *"
+  workflow_dispatch:
+
+permissions:
+  contents: write
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Generate statistics
+        uses: cicirello/user-statistician@v1
+        with:
+          image-file: profile/github-stats.svg
+          include-title: true
+          custom-title: "Cashisfsg | GitHub Statistics"
+          colors: dark
+          commit-and-push: true
+          commit-message: "Update GitHub statistics"
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
