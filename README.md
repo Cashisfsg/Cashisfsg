@@ -27,6 +27,4 @@
 
 <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cashisfsg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
 
-<img src="https://streak-stats.demolab.com?user=Cashisfsg&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=2DD4BF&currStreakLabel=A78BFA" />
-
 </div>
