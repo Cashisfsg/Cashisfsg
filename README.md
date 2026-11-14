@@ -17,3 +17,16 @@
 
 ### Development Tools
 ![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+
+
+## 📊 GitHub Statistics
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=Cashisfsg&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=2DD4BF&text_color=C9D1D9" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cashisfsg&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" />
+
+<img src="https://streak-stats.demolab.com?user=Cashisfsg&theme=tokyonight&hide_border=true&background=0D1117&ring=A78BFA&fire=2DD4BF&currStreakLabel=A78BFA" />
+
+</div>
